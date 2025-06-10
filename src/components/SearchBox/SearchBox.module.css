@@ -1,0 +1,14 @@
+.searchBox {
+  margin-bottom: 20px;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 8px;
+  font-size: 1rem;
+}
+
+.searchLabel {
+  margin-bottom: 6px;
+  font-weight: 600;
+}
